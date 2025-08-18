@@ -1,0 +1,4 @@
+for Exercise 3 
+for inline css :ex2.html
+for internal css:mainpage.html
+for external css:ex1mapping
